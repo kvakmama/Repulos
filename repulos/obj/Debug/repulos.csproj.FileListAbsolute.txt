@@ -1,0 +1,18 @@
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\bin\Debug\repulos.exe.config
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\bin\Debug\repulos.exe
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\bin\Debug\repulos.pdb
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\obj\Debug\repulos.csprojResolveAssemblyReference.cache
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\obj\Debug\repulos.Form1.resources
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\obj\Debug\repulos.Properties.Resources.resources
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\obj\Debug\repulos.csproj.GenerateResource.Cache
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\obj\Debug\repulos.exe
+c:\users\kvakmama\documents\visual studio 2015\Projects\repulos\repulos\obj\Debug\repulos.pdb
+d:\C#\repulos\repulos\bin\Debug\repulos.exe.config
+d:\C#\repulos\repulos\bin\Debug\repulos.exe
+d:\C#\repulos\repulos\bin\Debug\repulos.pdb
+d:\C#\repulos\repulos\obj\Debug\repulos.csprojResolveAssemblyReference.cache
+d:\C#\repulos\repulos\obj\Debug\repulos.Form1.resources
+d:\C#\repulos\repulos\obj\Debug\repulos.Properties.Resources.resources
+d:\C#\repulos\repulos\obj\Debug\repulos.csproj.GenerateResource.Cache
+d:\C#\repulos\repulos\obj\Debug\repulos.exe
+d:\C#\repulos\repulos\obj\Debug\repulos.pdb
