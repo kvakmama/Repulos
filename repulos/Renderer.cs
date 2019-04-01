@@ -11,9 +11,18 @@ namespace repulos
     {
         public void paint(System.Drawing.Graphics formGraphics)
         {
+            if (map == null)
+            {
+                return;
+            }
+
             System.Drawing.SolidBrush myBrush = new System.Drawing.SolidBrush(System.Drawing.Color.Red);
-            formGraphics.FillRectangle(myBrush, new Rectangle(0, 0, 200, 300));
+            foreach (GameObject obj in map.gameobjects)
+            {
+                formGraphics.FillRectangle(myBrush, new Rectangle(Convert.ToInt32(obj.position.x), Convert.ToInt32(obj.position.y), Convert.ToInt32(obj.size.x), Convert.ToInt32(obj.size.y)));
+            }
             myBrush.Dispose();
         }
+        public Map map;
     }
 }

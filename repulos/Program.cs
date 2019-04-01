@@ -16,7 +16,17 @@ namespace repulos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            TimeElapsed elapsed;
+            Form1 form = new Form1();
+            Map map = new Map();
+            map.load("level1");
+            form.renderer = new Renderer();
+            form.renderer.map = map;
+            Application.Run(form);
+            map.update(2);
+            
         }
+        public delegate void TimeElapsed(int milisec); 
+
     }
 }

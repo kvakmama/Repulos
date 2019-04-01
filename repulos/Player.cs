@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace repulos
 {
-    class Vec2
+    class Player:GameObject
     {
-        public double x = 0;
-        public double y = 0;
     }
 }
